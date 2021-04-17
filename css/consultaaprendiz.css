@@ -1,0 +1,67 @@
+body{
+    background-color: #ffffff;
+    text-align: justify;
+}
+
+#div1{
+    width: 60%;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border: 0px solid;
+    background-color: rgb(255, 255, 255);
+}
+
+#div2{
+    width: 80%;
+    margin: 0 auto;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border: 1px solid #cccccc;
+    background-color: #fffffff5;
+    text-align: center;
+}
+
+#div3{
+    background-color: #ffffff;
+    font-size: 21px;
+    padding: 5;
+    border-width: thin;
+    border: 1px;
+    text-align: center;
+}
+
+#div3 input{
+    color: #020202;
+}
+
+.lgris{
+    color: rgb(0, 0, 0);
+}
+
+.btn1{
+    background-color: rgb(248, 238, 238);
+    color: rgb(233, 83, 83);
+    font-size: 15px;
+    font-weight: bold;
+    width: 40%;
+}
+
+#divconsulta{
+    width: 80%;
+    padding: 0;
+    border-style: solid;
+    border-width: thin;
+    border: 0px solid;
+    background-color: rgb(255, 255, 255);
+}
+
+#divconsulta2{
+    background-color: rgb(245, 245, 245);
+    font-size: 21px;
+    padding: 5;
+    border-width: thin;
+    border: 1px solid #CCCCCC;
+    text-align: center;
+}
